@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoTesterAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoTesterAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoTesterAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoTesterAndroid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoTesterAndroid.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoTesterAndroid.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoTesterAndroid.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoTesterAndroid.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoTesterAndroid.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoTesterAndroid.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-401039338/AutoTesterAndroid.maply.iml" filepath="$PROJECT_DIR$/.idea/modules/-401039338/AutoTesterAndroid.maply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-401039338/AutoTesterAndroid.maply.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-401039338/AutoTesterAndroid.maply.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-401039338/AutoTesterAndroid.maply.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-401039338/AutoTesterAndroid.maply.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-401039338/AutoTesterAndroid.maply.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-401039338/AutoTesterAndroid.maply.unitTest.iml" />
+    </modules>
+  </component>
+</project>
